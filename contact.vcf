@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:MARCHI;Olivier;;;
+FN:Olivier MARCHI
+ORG:ACCFOROM
+TITLE:Gérant
+TEL;TYPE=CELL:+33676731777
+EMAIL:o.marchi@accforom.fr
+URL:https://accforom.fr
+ADR;TYPE=WORK:;;595 chemin de la pierre de feu;Aix-en-Provence;13090;France
+END:VCARD
